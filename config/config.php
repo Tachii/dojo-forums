@@ -1,12 +1,12 @@
 <?php
-define("DB_HOST", "mysql6.000webhost.com");
-define("DB_USER", "a1713593_tachi");
-define("DB_PASS", "a1713593");
-define("DB_NAME", "a1713593_chat");   
+define("DB_HOST", "us-cdbr-iron-east-02.cleardb.net");
+define("DB_USER", "bb78285bddee63");
+define("DB_PASS", "54fbec69");
+define("DB_NAME", "heroku_d6c0950eb335527");   
 
 define("SITE_TITLE", "Welcome to Dojo Forums!");
 
 // Paths
-define('BASE_URI', 'http://'.$_SERVER['SERVER_NAME'].'/projects/dojoforums');
+define('BASE_URI', 'http://'.$_SERVER['SERVER_NAME']);
 
 ?>
